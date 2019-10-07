@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829488410728",
+    "firebase_url": "https://friendlychat-c3e8f.firebaseio.com",
+    "project_id": "friendlychat-c3e8f",
+    "storage_bucket": "friendlychat-c3e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829488410728:android:ca2760e140c72f4e",
+        "android_client_info": {
+          "package_name": "com.example.hp.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829488410728-nau7oif5ssqe68mgt90pi7s3o8crcbus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.chitchat",
+            "certificate_hash": "bc899e74b391fdd2d59af87ac0396a2c1dccbccd"
+          }
+        },
+        {
+          "client_id": "829488410728-nb5ksatdlmki1qnrfac93gn23rr2p2jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0_jjH6F2HYRTUJlRFZWOTLytQlTC42o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829488410728-nb5ksatdlmki1qnrfac93gn23rr2p2jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
